@@ -10,6 +10,6 @@ public class HelloWorldController {
     @GetMapping("/hello")
     public  String hello(){
         System.out.println("--------------4125");
-        return "hello world";
+        return "hello world2";
     }
 }
